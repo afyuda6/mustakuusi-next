@@ -23,7 +23,6 @@ interface GameData {
     categories: string[];
     detail: string;
     downloadLink: string;
-    playLink: string;
     longDescription: string;
     privacyPolicyLink: string;
     screenshots: string[];
@@ -57,7 +56,6 @@ export default async function GamePage({params}: { params: Promise<{ id: string 
                 title={game.title}
                 description={game.description}
                 downloadLink={game.downloadLink}
-                playLink={game.playLink}
                 imageUrl={game.imageSrc}
                 date={game.date}
             />

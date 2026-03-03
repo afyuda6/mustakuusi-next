@@ -21,7 +21,6 @@ interface GameData {
     categories: string[];
     detail: string;
     downloadLink: string;
-    playLink: string;
     longDescription: string;
     privacyPolicyLink: string;
     screenshots: string[];

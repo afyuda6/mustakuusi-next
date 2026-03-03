@@ -12,7 +12,6 @@ interface GameProps {
     categories: string[];
     detail: string;
     downloadLink: string;
-    playLink: string;
 }
 
 interface GamesSectionProps {

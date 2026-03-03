@@ -14,7 +14,6 @@ interface GameProps {
     categories: string[];
     detail: string;
     downloadLink: string;
-    playLink: string;
 }
 
 interface GameCardProps {
@@ -22,7 +21,7 @@ interface GameCardProps {
 }
 
 export const GameCard = ({
-                             game: {title, imageSrc, date, categories, detail, downloadLink, playLink},
+                             game: {title, imageSrc, date, categories, detail, downloadLink},
                          }: GameCardProps) => {
     const {ref, isVisible} = useInView<HTMLDivElement>(0.18);
     const [countdown, setCountdown] = useState("");
@@ -92,12 +91,6 @@ export const GameCard = ({
                         <a href={downloadLink} target="_blank" rel="noopener"><img
                             src={getImageUrl("googlebadge.png")}
                             alt="Unduh di Google Play"
-                            className={styles.badge}
-                        /></a>)}
-                    {!countdown && playLink && (
-                        <a href={playLink} target="_blank" rel="noopener"><img
-                            src={getImageUrl("itchbadge.png")}
-                            alt="Main di itch.io"
                             className={styles.badge}
                         /></a>)}
                 </div>

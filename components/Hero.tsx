@@ -10,7 +10,6 @@ interface HeroProps {
     title: string;
     description: string;
     downloadLink?: string;
-    playLink?: string;
     imageUrl: string;
     date?: string;
 }
@@ -19,7 +18,6 @@ export const Hero = ({
                          title,
                          description,
                          downloadLink,
-                         playLink,
                          imageUrl,
                          date,
                      }: HeroProps) => {
@@ -75,12 +73,6 @@ export const Hero = ({
                             <a href={downloadLink} target="_blank" rel="noopener"><img
                                 src={getImageUrl("googlebadge.png")}
                                 alt="Unduh di Google Play"
-                                className={styles.badge}
-                            /></a>)}
-                        {!countdown && playLink && (
-                            <a href={playLink} target="_blank" rel="noopener"><img
-                                src={getImageUrl("itchbadge.png")}
-                                alt="Main di itch.io"
                                 className={styles.badge}
                             /></a>)}
                     </div>
