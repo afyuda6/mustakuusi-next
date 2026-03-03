@@ -16,7 +16,7 @@
     white-space: nowrap;
 }
 
-::selection {
+.text::selection {
     background: white;
     color: black;
 }

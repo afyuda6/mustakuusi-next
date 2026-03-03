@@ -23,7 +23,7 @@
     }
 }
 
-::selection {
+.text::selection {
     background: white;
     color: black;
 }
