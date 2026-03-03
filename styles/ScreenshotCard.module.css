@@ -1,0 +1,26 @@
+@import "../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: var(--color-light);
+    border: 1px solid var(--color-secondary);
+    padding: 18px 24px;
+    max-width: 345px;
+}
+
+.image {
+    margin: 12px;
+}
+
+.fadeUp {
+    opacity: 0;
+    transform: translateY(48px);
+    transition: opacity 0.9s ease-out, transform 0.9s ease-out;
+}
+
+.fadeUp.visible {
+    opacity: 1;
+    transform: translateY(0);
+}

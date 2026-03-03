@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lato",
+    "name": "Lato",
+    "imageSrc": "elephant.png",
+    "description": "Lato adalah seekor <i>Loxodonta africana</i> kotak yang selalu berpikir logis."
+  },
+  {
+    "id": "yiki",
+    "name": "Yiki",
+    "imageSrc": "chick.png",
+    "description": "Yiki adalah seekor <i>Gallus gallus</i> kotak yang sering bersama Yebu."
+  },
+  {
+    "id": "yebu",
+    "name": "Yebu",
+    "imageSrc": "bear.png",
+    "description": "Yebu adalah seekor <i>Ursus americanus</i> kotak yang sering bersama Yiki."
+  },
+  {
+    "id": "mogi",
+    "name": "Mogi",
+    "imageSrc": "gorilla.png",
+    "description": "Mogi adalah seekor <i>Gorilla gorilla</i> kotak yang sering bersama Mipu."
+  },
+  {
+    "id": "mipu",
+    "name": "Mipu",
+    "imageSrc": "pig.png",
+    "description": "Mipu adalah seekor <i>Sus scrofa</i> kotak yang sering bersama Mogi."
+  },
+  {
+    "id": "cuki",
+    "name": "Cuki",
+    "imageSrc": "duck.png",
+    "description": "Cuki adalah seekor <i>Anas platyrhynchos</i> kotak yang sering bersama Cipu."
+  },
+  {
+    "id": "cipu",
+    "name": "Cipu",
+    "imageSrc": "penguin.png",
+    "description": "Cipu adalah seekor <i>Eudyptes chrysolophus</i> kotak yang sering bersama Cuki."
+  },
+  {
+    "id": "boli",
+    "name": "Boli",
+    "imageSrc": "owl.png",
+    "description": "Boli adalah seekor <i>Tyto alba</i> kotak yang sering bersama Bipu."
+  },
+  {
+    "id": "bipu",
+    "name": "Bipu",
+    "imageSrc": "hippo.png",
+    "description": "Bipu adalah seekor <i>Hippopotamus amphibius</i> kotak yang sering bersama Boli."
+  },
+  {
+    "id": "goci",
+    "name": "Goci",
+    "imageSrc": "crocodile.png",
+    "description": "Goci adalah seekor <i>Crocodylus niloticus</i> kotak yang sering bersama Ginu."
+  },
+  {
+    "id": "ginu",
+    "name": "Ginu",
+    "imageSrc": "rhino.png",
+    "description": "Ginu adalah seekor <i>Ceratotherium simum</i> kotak yang sering bersama Goci."
+  },
+  {
+    "id": "rapi",
+    "name": "Rapi",
+    "imageSrc": "parrot.png",
+    "description": "Rapi adalah seekor <i>Ara macao</i> kotak yang sering bersama Roku."
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "imageSrc": "monkey.png",
+    "description": "Roku adalah seekor <i>Macaca fascicularis</i> kotak yang sering bersama Rapi."
+  },
+  {
+    "id": "wodi",
+    "name": "Wodi",
+    "imageSrc": "dog.png",
+    "description": "Wodi adalah seekor <i>Canis lupus</i> kotak yang sering bersama Woka."
+  },
+  {
+    "id": "woka",
+    "name": "Woka",
+    "imageSrc": "cow.png",
+    "description": "Woka adalah seekor <i>Bos taurus</i> kotak yang sering bersama Wodi."
+  },
+  {
+    "id": "kara",
+    "name": "Kara",
+    "imageSrc": "rabbit.png",
+    "description": "Kara adalah seekor <i>Sylvilagus floridanus</i> kotak yang suka bermain sudoku."
+  },
+  {
+    "id": "kezo",
+    "name": "Kezo",
+    "imageSrc": "zebra.png",
+    "description": "Kezo adalah seekor <i>Equus quagga</i> kotak yang suka bermain bola."
+  },
+  {
+    "id": "kapa",
+    "name": "Kapa",
+    "imageSrc": "panda.png",
+    "description": "Kapa adalah seekor <i>Ailuropoda melanoleuca</i> kotak yang suka bermain petak umpet."
+  },
+  {
+    "id": "keli",
+    "name": "Keli",
+    "imageSrc": "whale.png",
+    "description": "Keli adalah seekor <i>Balaenoptera acutorostrata</i> kotak yang suka berenang."
+  },
+  {
+    "id": "kome",
+    "name": "Kome",
+    "imageSrc": "moose.png",
+    "description": "Kome adalah seekor <i>Alces alces</i> kotak yang bijaksana."
+  }
+]

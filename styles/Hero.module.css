@@ -1,0 +1,124 @@
+@import "../vars.css";
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 0;
+    margin: 48px 10%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 540px;
+    color: var(--color-text);
+    z-index: 1;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 12px;
+    font-family: var(--font-fb), monospace;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 70%, rgba(255, 255, 255, 0) 120%);
+}
+
+.description {
+    font-size: 18px;
+    font-family: var(--font-fb), monospace;
+    margin-bottom: 48px;
+    padding-right: 24px;
+}
+
+.gameBtn {
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-bg);
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 18px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.25);
+}
+
+.badge {
+    height: 42px;
+    vertical-align: middle;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.heroImg {
+    width: 30%;
+    z-index: 1;
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+.characterHeroImg {
+    width: auto;
+    z-index: 1;
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+    50% {
+        transform: translate(0, 18px);
+    }
+    100% {
+        transform: translate(0, -0px);
+    }
+}
+
+.fadeUp {
+    opacity: 0;
+    transform: translateY(48px);
+    transition: opacity 0.9s ease-out, transform 0.9s ease-out;
+}
+
+.fadeUp.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+
+    .description {
+        text-align: center;
+    }
+
+    .heroImg {
+        width: 240px;
+        margin-bottom: 36px;
+    }
+
+    .characterHeroImg {
+        width: auto;
+        margin-bottom: 36px;
+    }
+}

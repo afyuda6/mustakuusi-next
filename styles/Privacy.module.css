@@ -1,0 +1,55 @@
+@import "../vars.css";
+
+.privacy {
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    padding: 20px 10%;
+}
+
+.privacy *,
+.translateBtn,
+.separator {
+    font-family: "Roboto", sans-serif;
+}
+
+.privacy p {
+    margin: 10px;
+}
+
+.privacy ul {
+    margin: 10px;
+    padding-left: 36px;
+}
+
+.privacy a {
+    color: var(--color-text);
+    text-decoration: underline;
+}
+
+.privacyHeader {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 12px 15px;
+    top: 0;
+    z-index: 100;
+}
+
+.translateBtn {
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin: 0 4px;
+    transition: transform 0.1s ease;
+}
+
+.separator {
+    font-size: 30px;
+}
+
+.active {
+    opacity: 1;
+    font-weight: bolder;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
