@@ -29,6 +29,11 @@ interface GameData {
     characters: string[];
 }
 
+export async function generateStaticParams() {
+    const gamesList = (games as GameData[]);
+    return gamesList.map((g) => ({ id: g.id }));
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
     const game = (games as GameData[]).find((p) => p.id === id);
