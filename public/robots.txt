@@ -1,9 +1,2 @@
 User-agent: *
-Disallow: /
-
-Allow: /r/
-Allow: /g/
-Allow: /b/
-Allow: /c/
-Allow: /m/
-Allow: /y/
+Allow: /

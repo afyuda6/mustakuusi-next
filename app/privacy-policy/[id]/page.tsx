@@ -2,6 +2,7 @@ import {Navbar} from "@/components/Navbar";
 import {Privacy} from "@/components/Privacy";
 import {Contact} from "@/components/Contact";
 import games from "@/public/data/games.json";
+import {notFound} from "next/navigation";
 
 interface GameData {
     id: string;
@@ -26,7 +27,7 @@ export default async function PrivacyPolicyPage({params}: { params: Promise<{ id
     const game = (games as GameData[]).find((p) => p.id === id);
 
     if (!game) {
-        return <div></div>;
+        notFound();
     }
 
     return (

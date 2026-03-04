@@ -4,6 +4,7 @@ import {Games} from "@/components/Games";
 import {Contact} from "@/components/Contact";
 import characters from "@/public/data/characters.json";
 import games from "@/public/data/games.json";
+import {notFound} from "next/navigation";
 
 interface CharacterData {
     id: string;
@@ -46,7 +47,7 @@ export default async function CharacterPage({params}: { params: Promise<{ id: st
     const character = (characters as CharacterData[]).find((p) => p.id === id);
 
     if (!character) {
-        return <div></div>;
+        notFound();
     }
 
     const filteredGames = (games as GameData[]).filter((p) =>
