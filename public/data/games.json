@@ -1,7 +1,7 @@
 [
   {
     "id": "kwis-mat-sma-12",
-    "title": "KWIS: Matematika SMA Kelas 12",
+    "title": "Kuis Matematika Kelas 12 SMA",
     "imageSrc": "kwis-mat-sma-12.png",
     "date": "2026-06-14T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -20,7 +20,7 @@
   },
   {
     "id": "kwis-mat-sma-11",
-    "title": "KWIS: Matematika SMA Kelas 11",
+    "title": "Kuis Matematika Kelas 11 SMA",
     "imageSrc": "kwis-mat-sma-11.png",
     "date": "2026-05-31T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -39,7 +39,7 @@
   },
   {
     "id": "kwis-mat-sma-10",
-    "title": "KWIS: Matematika SMA Kelas 10",
+    "title": "Kuis Matematika Kelas 10 SMA",
     "imageSrc": "kwis-mat-sma-10.png",
     "date": "2026-05-17T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -58,7 +58,7 @@
   },
   {
     "id": "kwis-mat-smp-9",
-    "title": "KWIS: Matematika SMP Kelas 9",
+    "title": "Kuis Matematika Kelas 9 SMP",
     "imageSrc": "kwis-mat-smp-9.png",
     "date": "2026-05-03T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -77,7 +77,7 @@
   },
   {
     "id": "kwis-mat-smp-8",
-    "title": "KWIS: Matematika SMP Kelas 8",
+    "title": "Kuis Matematika Kelas 8 SMP",
     "imageSrc": "kwis-mat-smp-8.png",
     "date": "2026-04-19T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -96,7 +96,7 @@
   },
   {
     "id": "kwis-mat-smp-7",
-    "title": "KWIS: Matematika SMP Kelas 7",
+    "title": "Kuis Matematika Kelas 7 SMP",
     "imageSrc": "kwis-mat-smp-7.png",
     "date": "2026-04-05T18:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -115,7 +115,7 @@
   },
   {
     "id": "kwis-prov-id",
-    "title": "KWIS: Provinsi di Indonesia",
+    "title": "Kuis Provinsi di Indonesia",
     "imageSrc": "kwis-prov-id.png",
     "date": "2026-03-29T18:00+07:00",
     "description": "Sebuah gim pengetahuan interaktif untuk mengenal provinsi, ibu kota, lambang, dan peta Indonesia.",
@@ -144,7 +144,7 @@
   },
   {
     "id": "kwis-mat-sd-6",
-    "title": "KWIS: Matematika SD Kelas 6",
+    "title": "Kuis Matematika Kelas 6 SD",
     "imageSrc": "kwis-mat-sd-6.png",
     "date": "2026-03-17T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -170,7 +170,7 @@
   },
   {
     "id": "kwis-mat-sd-5",
-    "title": "KWIS: Matematika SD Kelas 5",
+    "title": "Kuis Matematika Kelas 5 SD",
     "imageSrc": "kwis-mat-sd-5.png",
     "date": "2026-03-12T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -196,7 +196,7 @@
   },
   {
     "id": "kwis-mat-sd-4",
-    "title": "KWIS: Matematika SD Kelas 4",
+    "title": "Kuis Matematika Kelas 4 SD",
     "imageSrc": "kwis-mat-sd-4.png",
     "date": "2026-03-07T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -222,7 +222,7 @@
   },
   {
     "id": "kwis-mat-sd-3",
-    "title": "KWIS: Matematika SD Kelas 3",
+    "title": "Kuis Matematika Kelas 3 SD",
     "imageSrc": "kwis-mat-sd-3.png",
     "date": "2026-03-02T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -248,7 +248,7 @@
   },
   {
     "id": "kwis-mat-sd-2",
-    "title": "KWIS: Matematika SD Kelas 2",
+    "title": "Kuis Matematika Kelas 2 SD",
     "imageSrc": "kwis-mat-sd-2.png",
     "date": "2026-02-25T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -274,7 +274,7 @@
   },
   {
     "id": "kwis-mat-sd-1",
-    "title": "KWIS: Matematika SD Kelas 1",
+    "title": "Kuis Matematika Kelas 1 SD",
     "imageSrc": "kwis-mat-sd-1.png",
     "date": "2026-02-20T06:00+07:00",
     "description": "Sebuah gim edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
@@ -300,7 +300,7 @@
   },
   {
     "id": "gridverse-wild",
-    "title": "Gridverse: Wild — hidden logic",
+    "title": "Hidden Logic — Wild",
     "imageSrc": "gridverse-wild.png",
     "date": "2025-12-11T07:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang melatih strategi dan keberanianmu saat membuka ruang-ruang tersembunyi.",
@@ -331,7 +331,7 @@
   },
   {
     "id": "gridverse-nine",
-    "title": "Gridverse: Nine — icon sudoku",
+    "title": "Icon Sudoku — Nine",
     "imageSrc": "gridverse-nine.png",
     "date": "2025-11-29T08:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang mengasah logika dan kemampuanmu mengenali pola lewat susunan simbol-simbol.",
@@ -364,7 +364,7 @@
   },
   {
     "id": "buttons-6",
-    "title": "Buttons 6 — color nonogram",
+    "title": "Color Nonogram — Buttons 6",
     "imageSrc": "buttons-6.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -390,7 +390,7 @@
   },
   {
     "id": "buttons-5",
-    "title": "Buttons 5 — color nonogram",
+    "title": "Color Nonogram — Buttons 5",
     "imageSrc": "buttons-5.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -416,7 +416,7 @@
   },
   {
     "id": "buttons-4",
-    "title": "Buttons 4 — color nonogram",
+    "title": "Color Nonogram — Buttons 4",
     "imageSrc": "buttons-4.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -442,7 +442,7 @@
   },
   {
     "id": "buttons-3",
-    "title": "Buttons 3 — color nonogram",
+    "title": "Color Nonogram — Buttons 3",
     "imageSrc": "buttons-3.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -468,7 +468,7 @@
   },
   {
     "id": "buttons-2",
-    "title": "Buttons 2 — color nonogram",
+    "title": "Color Nonogram — Buttons 2",
     "imageSrc": "buttons-2.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -494,7 +494,7 @@
   },
   {
     "id": "buttons-1",
-    "title": "Buttons 1 — color nonogram",
+    "title": "Color Nonogram — Buttons 1",
     "imageSrc": "buttons-1.png",
     "date": "2025-08-08T11:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
@@ -520,7 +520,7 @@
   },
   {
     "id": "buttons-0",
-    "title": "Buttons 0 — color nonogram",
+    "title": "Color Nonogram — Buttons 0",
     "imageSrc": "buttons-0.png",
     "date": "2025-08-01T21:00+07:00",
     "description": "Sebuah teka-teki kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
