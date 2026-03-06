@@ -33,20 +33,25 @@ export const Hero = ({
     useEffect(() => {
         if (date) {
             const updateCountdown = () => {
-                const now = new Date().getTime();
-                const release = new Date(date).getTime();
-                const diff = release - now;
+                const now = new Date();
+                const release = new Date(date);
 
-                if (diff <= 0) {
+                const diffMs = release.getTime() - now.getTime();
+                if (diffMs <= 0) {
                     setCountdown("");
                     return;
                 }
 
-                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-                if (days === 0) {
-                    setCountdown("Besok");
+                const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                const releaseDay = new Date(release.getFullYear(), release.getMonth(), release.getDate());
+                const dayDiff = Math.round((releaseDay.getTime() - today.getTime()) / (1000 * 60 * 60 * 24));
+
+                if (dayDiff === 0) {
+                    setCountdown(`Hari ini ${release.getHours()}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
+                } else if (dayDiff === 1) {
+                    setCountdown(`Besok ${release.getHours()}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
                 } else {
-                    setCountdown(`${days} hari lagi`);
+                    setCountdown(`${dayDiff} hari lagi`);
                 }
             };
 
@@ -70,20 +75,24 @@ export const Hero = ({
                 )}
                 {isGamePage && (
                     <div className={styles.buttonGroup}>
-                        {countdown && (
-                            <h2 className={styles.badge}>{countdown}</h2>
-                        )}
+                        {countdown && <h2 className={styles.badge}>{countdown}</h2>}
                         {!countdown && downloadLink && (
-                            <a href={downloadLink} target="_blank" rel="noopener"><img
-                                src={getImageUrl("googlebadge.png")}
-                                alt="Unduh di Google Play"
-                                className={styles.badge}
-                            /></a>)}
+                            <a href={downloadLink} target="_blank" rel="noopener">
+                                <img
+                                    src={getImageUrl("googlebadge.png")}
+                                    alt="Unduh di Google Play"
+                                    className={styles.badge}
+                                />
+                            </a>
+                        )}
                     </div>
                 )}
             </div>
-            <img src={getImageUrl(`${imageUrl}`)} alt="hero"
-                 className={isCharacterPage ? styles.characterHeroImg : styles.heroImg}/>
+            <img
+                src={getImageUrl(`${imageUrl}`)}
+                alt="hero"
+                className={isCharacterPage ? styles.characterHeroImg : styles.heroImg}
+            />
         </section>
     );
 };
