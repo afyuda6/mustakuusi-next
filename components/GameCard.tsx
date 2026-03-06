@@ -43,9 +43,9 @@ export const GameCard = ({
                 const dayDiff = Math.round((releaseDay.getTime() - today.getTime()) / (1000 * 60 * 60 * 24));
 
                 if (dayDiff === 0) {
-                    setCountdown(`Hari ini ${release.getHours()}:${release.getMinutes().toString().padStart(2, '0')} WIB`);
+                    setCountdown(`Hari ini ${release.getHours().toString().padStart(2, '0')}:${release.getMinutes().toString().padStart(2, '0')} WIB`);
                 } else if (dayDiff === 1) {
-                    setCountdown(`Besok ${release.getHours()}:${release.getMinutes().toString().padStart(2, '0')} WIB`);
+                    setCountdown(`Besok ${release.getHours().toString().padStart(2, '0')}:${release.getMinutes().toString().padStart(2, '0')} WIB`);
                 } else {
                     setCountdown(`${dayDiff} hari lagi`);
                 }
@@ -78,12 +78,13 @@ export const GameCard = ({
                 </h3>
                 <time className={styles.date} dateTime={date}>
                     Dirilis: {new Date(date).toLocaleDateString("id-ID", {
-                    year: 'numeric',
-                    month: 'short',
-                    day: '2-digit',
-                    hour: 'numeric',
-                    minute: 'numeric',
-                })} WIB
+                    year: "numeric",
+                    month: "short",
+                    day: "2-digit",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    hourCycle: "h23"
+                }).replace(".", ":")} WIB
                 </time>
                 <ul className={styles.categories}>
                     {categories.map((category, id) => (

@@ -47,9 +47,9 @@ export const Hero = ({
                 const dayDiff = Math.round((releaseDay.getTime() - today.getTime()) / (1000 * 60 * 60 * 24));
 
                 if (dayDiff === 0) {
-                    setCountdown(`Hari ini ${release.getHours()}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
+                    setCountdown(`Hari ini ${release.getHours().toString().padStart(2, '0')}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
                 } else if (dayDiff === 1) {
-                    setCountdown(`Besok ${release.getHours()}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
+                    setCountdown(`Besok ${release.getHours().toString().padStart(2, '0')}:${release.getMinutes().toString().padStart(2,'0')} WIB`);
                 } else {
                     setCountdown(`${dayDiff} hari lagi`);
                 }
