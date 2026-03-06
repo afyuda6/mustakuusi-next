@@ -39,7 +39,11 @@ export const GameCard = ({
                 }
 
                 const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-                setCountdown(`${days} hari lagi`);
+                if (days === 0) {
+                    setCountdown("Besok");
+                } else {
+                    setCountdown(`${days} hari lagi`);
+                }
             };
 
             updateCountdown();
