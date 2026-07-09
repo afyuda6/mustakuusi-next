@@ -1,0 +1,182 @@
+[
+  {
+    "id": "lato",
+    "name": "Lato",
+    "imageSrc": "elephant.png",
+    "description": {
+      "id": "Lato adalah seekor <i>Loxodonta africana</i> kotak yang suka bertualang.",
+      "en": "Lato is a square <i>Loxodonta africana</i> who loves to explore."
+    }
+  },
+  {
+    "id": "yiki",
+    "name": "Yiki",
+    "imageSrc": "chick.png",
+    "description": {
+      "id": "Yiki adalah seekor <i>Gallus gallus</i> kotak yang sering bersama Yebu.",
+      "en": "Yiki is a square <i>Gallus gallus</i> who is often with Yebu."
+    }
+  },
+  {
+    "id": "yebu",
+    "name": "Yebu",
+    "imageSrc": "bear.png",
+    "description": {
+      "id": "Yebu adalah seekor <i>Ursus americanus</i> kotak yang sering bersama Yiki.",
+      "en": "Yebu is a square <i>Ursus americanus</i> who is often with Yiki."
+    }
+  },
+  {
+    "id": "mogi",
+    "name": "Mogi",
+    "imageSrc": "gorilla.png",
+    "description": {
+      "id": "Mogi adalah seekor <i>Gorilla gorilla</i> kotak yang sering bersama Mipu.",
+      "en": "Mogi is a square <i>Gorilla gorilla</i> who is often with Mipu."
+    }
+  },
+  {
+    "id": "mipu",
+    "name": "Mipu",
+    "imageSrc": "pig.png",
+    "description": {
+      "id": "Mipu adalah seekor <i>Sus scrofa</i> kotak yang sering bersama Mogi.",
+      "en": "Mipu is a square <i>Sus scrofa</i> who is often with Mogi."
+    }
+  },
+  {
+    "id": "cuki",
+    "name": "Cuki",
+    "imageSrc": "duck.png",
+    "description": {
+      "id": "Cuki adalah seekor <i>Anas platyrhynchos</i> kotak yang sering bersama Cipu.",
+      "en": "Cuki is a square <i>Anas platyrhynchos</i> who is often with Cipu."
+    }
+  },
+  {
+    "id": "cipu",
+    "name": "Cipu",
+    "imageSrc": "penguin.png",
+    "description": {
+      "id": "Cipu adalah seekor <i>Eudyptes chrysolophus</i> kotak yang sering bersama Cuki.",
+      "en": "Cipu is a square <i>Eudyptes chrysolophus</i> who is often with Cuki."
+    }
+  },
+  {
+    "id": "boli",
+    "name": "Boli",
+    "imageSrc": "owl.png",
+    "description": {
+      "id": "Boli adalah seekor <i>Tyto alba</i> kotak yang sering bersama Bipu.",
+      "en": "Boli is a square <i>Tyto alba</i> who is often with Bipu."
+    }
+  },
+  {
+    "id": "bipu",
+    "name": "Bipu",
+    "imageSrc": "hippo.png",
+    "description": {
+      "id": "Bipu adalah seekor <i>Hippopotamus amphibius</i> kotak yang sering bersama Boli.",
+      "en": "Bipu is a square <i>Hippopotamus amphibius</i> who is often with Boli."
+    }
+  },
+  {
+    "id": "goci",
+    "name": "Goci",
+    "imageSrc": "crocodile.png",
+    "description": {
+      "id": "Goci adalah seekor <i>Crocodylus niloticus</i> kotak yang sering bersama Ginu.",
+      "en": "Goci is a square <i>Crocodylus niloticus</i> who is often with Ginu."
+    }
+  },
+  {
+    "id": "ginu",
+    "name": "Ginu",
+    "imageSrc": "rhino.png",
+    "description": {
+      "id": "Ginu adalah seekor <i>Ceratotherium simum</i> kotak yang sering bersama Goci.",
+      "en": "Ginu is a square <i>Ceratotherium simum</i> who is often with Goci."
+    }
+  },
+  {
+    "id": "rapi",
+    "name": "Rapi",
+    "imageSrc": "parrot.png",
+    "description": {
+      "id": "Rapi adalah seekor <i>Ara macao</i> kotak yang sering bersama Roku.",
+      "en": "Rapi is a square <i>Ara macao</i> who is often with Roku."
+    }
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "imageSrc": "monkey.png",
+    "description": {
+      "id": "Roku adalah seekor <i>Macaca fascicularis</i> kotak yang sering bersama Rapi.",
+      "en": "Roku is a square <i>Macaca fascicularis</i> who is often with Rapi."
+    }
+  },
+  {
+    "id": "wodi",
+    "name": "Wodi",
+    "imageSrc": "dog.png",
+    "description": {
+      "id": "Wodi adalah seekor <i>Canis lupus</i> kotak yang sering bersama Woka.",
+      "en": "Wodi is a square <i>Canis lupus</i> who is often with Woka."
+    }
+  },
+  {
+    "id": "woka",
+    "name": "Woka",
+    "imageSrc": "cow.png",
+    "description": {
+      "id": "Woka adalah seekor <i>Bos taurus</i> kotak yang sering bersama Wodi.",
+      "en": "Woka is a square <i>Bos taurus</i> who is often with Wodi."
+    }
+  },
+  {
+    "id": "kara",
+    "name": "Kara",
+    "imageSrc": "rabbit.png",
+    "description": {
+      "id": "Kara adalah seekor <i>Sylvilagus floridanus</i> kotak yang suka bermain sudoku.",
+      "en": "Kara is a square <i>Sylvilagus floridanus</i> who loves playing sudoku."
+    }
+  },
+  {
+    "id": "kezo",
+    "name": "Kezo",
+    "imageSrc": "zebra.png",
+    "description": {
+      "id": "Kezo adalah seekor <i>Equus quagga</i> kotak yang suka berlari.",
+      "en": "Kezo is a square <i>Equus quagga</i> who loves running."
+    }
+  },
+  {
+    "id": "kapa",
+    "name": "Kapa",
+    "imageSrc": "panda.png",
+    "description": {
+      "id": "Kapa adalah seekor <i>Ailuropoda melanoleuca</i> kotak yang suka bermain petak umpet.",
+      "en": "Kapa is a square <i>Ailuropoda melanoleuca</i> who loves playing hide and seek."
+    }
+  },
+  {
+    "id": "keli",
+    "name": "Keli",
+    "imageSrc": "whale.png",
+    "description": {
+      "id": "Keli adalah seekor <i>Balaenoptera acutorostrata</i> kotak yang suka berenang.",
+      "en": "Keli is a square <i>Balaenoptera acutorostrata</i> who loves swimming."
+    }
+  },
+  {
+    "id": "kome",
+    "name": "Kome",
+    "imageSrc": "moose.png",
+    "description": {
+      "id": "Kome adalah seekor <i>Alces alces</i> kotak yang berwawasan.",
+      "en": "Kome is a square <i>Alces alces</i> who is knowledgeable."
+    }
+  }
+]
