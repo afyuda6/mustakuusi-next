@@ -1,0 +1,1914 @@
+[
+  {
+    "id": "kwis-madrid-putih",
+    "title": {
+      "en": "Madrid White Quiz",
+      "id": "Kuis Madrid Putih"
+    },
+    "imageSrc": "kwis-madrid-putih.png",
+    "date": "2026-06-28T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-madrid-putih",
+    "privacyPolicyLink": "/privacy-policy/kwis-madrid-putih",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.madridputih",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-madrid-putih-1.png",
+      "kwis-madrid-putih-2.png",
+      "kwis-madrid-putih-3.png",
+      "kwis-madrid-putih-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-barcelona-biru-merah",
+    "title": {
+      "en": "Barcelona Blue Red Quiz",
+      "id": "Kuis Barcelona Biru Merah"
+    },
+    "imageSrc": "kwis-barcelona-biru-merah.png",
+    "date": "2026-06-27T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-barcelona-biru-merah",
+    "privacyPolicyLink": "/privacy-policy/kwis-barcelona-biru-merah",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.barcelonabirumerah",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-barcelona-biru-merah-1.png",
+      "kwis-barcelona-biru-merah-2.png",
+      "kwis-barcelona-biru-merah-3.png",
+      "kwis-barcelona-biru-merah-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-chelsea-biru",
+    "title": {
+      "en": "Chelsea Blue Quiz",
+      "id": "Kuis Chelsea Biru"
+    },
+    "imageSrc": "kwis-chelsea-biru.png",
+    "date": "2026-06-26T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-chelsea-biru",
+    "privacyPolicyLink": "/privacy-policy/kwis-chelsea-biru",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.chelseabiru",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-chelsea-biru-1.png",
+      "kwis-chelsea-biru-2.png",
+      "kwis-chelsea-biru-3.png",
+      "kwis-chelsea-biru-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-liverpool-merah",
+    "title": {
+      "en": "Liverpool Red Quiz",
+      "id": "Kuis Liverpool Merah"
+    },
+    "imageSrc": "kwis-liverpool-merah.png",
+    "date": "2026-06-25T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-liverpool-merah",
+    "privacyPolicyLink": "/privacy-policy/kwis-liverpool-merah",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.liverpoolmerah",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-liverpool-merah-1.png",
+      "kwis-liverpool-merah-2.png",
+      "kwis-liverpool-merah-3.png",
+      "kwis-liverpool-merah-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-manchester-biru-langit",
+    "title": {
+      "en": "Manchester Sky Blue Quiz",
+      "id": "Kuis Manchester Biru Langit"
+    },
+    "imageSrc": "kwis-manchester-biru-langit.png",
+    "date": "2026-06-24T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-manchester-biru-langit",
+    "privacyPolicyLink": "/privacy-policy/kwis-manchester-biru-langit",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.manchesterbirulangit",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-manchester-biru-langit-1.png",
+      "kwis-manchester-biru-langit-2.png",
+      "kwis-manchester-biru-langit-3.png",
+      "kwis-manchester-biru-langit-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-manchester-merah",
+    "title": {
+      "en": "Manchester Red Quiz",
+      "id": "Kuis Manchester Merah"
+    },
+    "imageSrc": "kwis-manchester-merah.png",
+    "date": "2026-06-23T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-manchester-merah",
+    "privacyPolicyLink": "/privacy-policy/kwis-manchester-merah",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.manchestermerah",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-manchester-merah-1.png",
+      "kwis-manchester-merah-2.png",
+      "kwis-manchester-merah-3.png",
+      "kwis-manchester-merah-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-munchen-merah",
+    "title": {
+      "en": "Munchen Red Quiz",
+      "id": "Kuis Munchen Merah"
+    },
+    "imageSrc": "kwis-munchen-merah.png",
+    "date": "2026-06-22T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-munchen-merah",
+    "privacyPolicyLink": "/privacy-policy/kwis-munchen-merah",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.munchenmerah",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-munchen-merah-1.png",
+      "kwis-munchen-merah-2.png",
+      "kwis-munchen-merah-3.png",
+      "kwis-munchen-merah-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-paris-biru-navy",
+    "title": {
+      "en": "Paris Navy Blue Quiz",
+      "id": "Kuis Paris Biru Navy"
+    },
+    "imageSrc": "kwis-paris-biru-navy.png",
+    "date": "2026-06-21T18:00+07:00",
+    "description": {
+      "id": "No game description in English",
+      "en": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Tim Sepakbola"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS Football Team"
+      ]
+    },
+    "detail": "/kwis-paris-biru-navy",
+    "privacyPolicyLink": "/privacy-policy/kwis-paris-biru-navy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.parisbirunavy",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "Belum ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "kwis-paris-biru-navy-1.png",
+      "kwis-paris-biru-navy-2.png",
+      "kwis-paris-biru-navy-3.png",
+      "kwis-paris-biru-navy-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Football Fan",
+          "id": "Penggemar Sepakbola"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sma-12",
+    "title": {
+      "en": "Grade 12 High School Math Problems",
+      "id": "Soal Matematika Kelas 12 SMA"
+    },
+    "imageSrc": "kwis-mat-sma-12.png",
+    "date": "2026-06-14T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMA"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS High School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sma-12",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sma-12",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsma12",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 12 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 12 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 12, kamu bisa menjawab berbagai soal matematika Kelas 12 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 12 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 12 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 12\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 12, seperti:\n\n1\uFE0F⃣ Transformasi Fungsi\n2\uFE0F⃣ Busur dan Juring Lingkaran\n3\uFE0F⃣ Kombinatorika\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 12.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 12 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sma-12-1.png",
+      "kwis-mat-sma-12-2.png",
+      "kwis-mat-sma-12-3.png",
+      "kwis-mat-sma-12-4.png",
+      "kwis-mat-sma-12-5.png"
+    ],
+    "characters": [
+      {
+        "id": "keli",
+        "role": {
+          "en": "12th Grade Student",
+          "id": "Siswa Kelas 12"
+        }
+      },
+      {
+        "id": "kezo",
+        "role": {
+          "en": "Keli's Friend",
+          "id": "Teman Keli"
+        }
+      },
+      {
+        "id": "kapa",
+        "role": {
+          "en": "Keli's Friend",
+          "id": "Teman Keli"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sma-11",
+    "title": {
+      "en": "Grade 11 High School Math Problems",
+      "id": "Soal Matematika Kelas 11 SMA"
+    },
+    "imageSrc": "kwis-mat-sma-11.png",
+    "date": "2026-05-31T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMA"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS High School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sma-11",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sma-11",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsma11",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 11 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 11 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 11, kamu bisa menjawab berbagai soal matematika Kelas 11 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 11 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 11 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 11\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 11, seperti:\n\n1\uFE0F⃣ Komposisi Fungsi dan Fungsi Invers\n2\uFE0F⃣ Busur, Garis Singgung dan Tali Busur Lingkaran\n3\uFE0F⃣ Diagram Pencar, Regresi Linear dan Analisis Korelasi\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 11.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 11 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sma-11-1.png",
+      "kwis-mat-sma-11-2.png",
+      "kwis-mat-sma-11-3.png",
+      "kwis-mat-sma-11-4.png",
+      "kwis-mat-sma-11-5.png"
+    ],
+    "characters": [
+      {
+        "id": "kapa",
+        "role": {
+          "en": "11th Grade Student",
+          "id": "Siswa Kelas 11"
+        }
+      },
+      {
+        "id": "keli",
+        "role": {
+          "en": "Kapa's Friend",
+          "id": "Teman Kapa"
+        }
+      },
+      {
+        "id": "kezo",
+        "role": {
+          "en": "Kapa's Friend",
+          "id": "Teman Kapa"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sma-10",
+    "title": {
+      "en": "Grade 10 High School Math Problems",
+      "id": "Soal Matematika Kelas 10 SMA"
+    },
+    "imageSrc": "kwis-mat-sma-10.png",
+    "date": "2026-05-17T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMA"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS High School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sma-10",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sma-10",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsma10",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 10 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 10 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 10, kamu bisa menjawab berbagai soal matematika Kelas 10 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 10 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 10 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 10\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 10, seperti:\n\n1\uFE0F⃣ Eksponen\n2\uFE0F⃣ Barisan dan Deret\n3\uFE0F⃣ Perbandingan Trigonometri\n4\uFE0F⃣ Sistem Persamaan dan Pertidaksamaan Linear\n5\uFE0F⃣ Persamaan dan Fungsi Kuadrat\n6\uFE0F⃣ Data dan Peluang\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 10.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 10 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sma-10-1.png",
+      "kwis-mat-sma-10-2.png",
+      "kwis-mat-sma-10-3.png",
+      "kwis-mat-sma-10-4.png",
+      "kwis-mat-sma-10-5.png",
+      "kwis-mat-sma-10-6.png",
+      "kwis-mat-sma-10-7.png",
+      "kwis-mat-sma-10-8.png"
+    ],
+    "characters": [
+      {
+        "id": "kezo",
+        "role": {
+          "en": "10th Grade Student",
+          "id": "Siswa Kelas 10"
+        }
+      },
+      {
+        "id": "kapa",
+        "role": {
+          "en": "Kezo's Friend",
+          "id": "Teman Kezo"
+        }
+      },
+      {
+        "id": "keli",
+        "role": {
+          "en": "Kezo's Friend",
+          "id": "Teman Kezo"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-smp-9",
+    "title": {
+      "en": "Grade 9 Middle School Math Problems",
+      "id": "Soal Matematika Kelas 9 SMP"
+    },
+    "imageSrc": "kwis-mat-smp-9.png",
+    "date": "2026-05-03T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMP"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Middle School Math"
+      ]
+    },
+    "detail": "/kwis-mat-smp-9",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-smp-9",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsmp9",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 9 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 9 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 9, kamu bisa menjawab berbagai soal matematika Kelas 9 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 9 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 9 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 9\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 9, seperti:\n\n1\uFE0F⃣ Sistem Persamaan Linear Dua Variabel\n2\uFE0F⃣ Lingkaran\n3\uFE0F⃣ Luas Permukaan Bangun Ruang\n4\uFE0F⃣ Volume Bangun Ruang\n5\uFE0F⃣ Transformasi Geometri\n6\uFE0F⃣ Peluang dan Pemilihan Sampel\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 9.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 9 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-smp-9-1.png",
+      "kwis-mat-smp-9-2.png",
+      "kwis-mat-smp-9-3.png",
+      "kwis-mat-smp-9-4.png",
+      "kwis-mat-smp-9-5.png",
+      "kwis-mat-smp-9-6.png",
+      "kwis-mat-smp-9-7.png",
+      "kwis-mat-smp-9-8.png"
+    ],
+    "characters": [
+      {
+        "id": "kara",
+        "role": {
+          "en": "9th Grade Student",
+          "id": "Siswa Kelas 9"
+        }
+      },
+      {
+        "id": "wodi",
+        "role": {
+          "en": "Kara's Friend",
+          "id": "Teman Kara"
+        }
+      },
+      {
+        "id": "woka",
+        "role": {
+          "en": "Kara's Friend",
+          "id": "Teman Kara"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-smp-8",
+    "title": {
+      "en": "Grade 8 Middle School Math Problems",
+      "id": "Soal Matematika Kelas 8 SMP"
+    },
+    "imageSrc": "kwis-mat-smp-8.png",
+    "date": "2026-04-19T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMP"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Middle School Math"
+      ]
+    },
+    "detail": "/kwis-mat-smp-8",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-smp-8",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsmp8",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 8 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 8 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 8, kamu bisa menjawab berbagai soal matematika Kelas 8 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 8 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 8 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 8\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 8, seperti:\n\n1\uFE0F⃣ Bilangan Berpangkat\n2\uFE0F⃣ Teorema Pythagoras\n3\uFE0F⃣ Persamaan dan Pertidaksamaan Linear Satu Variabel\n4\uFE0F⃣ Relasi dan Fungsi\n5\uFE0F⃣ Persamaan Garis Lurus\n6\uFE0F⃣ Statistika\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 8.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 8 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-smp-8-1.png",
+      "kwis-mat-smp-8-2.png",
+      "kwis-mat-smp-8-3.png",
+      "kwis-mat-smp-8-4.png",
+      "kwis-mat-smp-8-5.png",
+      "kwis-mat-smp-8-6.png",
+      "kwis-mat-smp-8-7.png",
+      "kwis-mat-smp-8-8.png"
+    ],
+    "characters": [
+      {
+        "id": "woka",
+        "role": {
+          "en": "8th Grade Student",
+          "id": "Siswa Kelas 8"
+        }
+      },
+      {
+        "id": "kara",
+        "role": {
+          "en": "Woka's Friend",
+          "id": "Teman Woka"
+        }
+      },
+      {
+        "id": "wodi",
+        "role": {
+          "en": "Woka's Friend",
+          "id": "Teman Woka"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-smp-7",
+    "title": {
+      "en": "Grade 7 Middle School Math Problems",
+      "id": "Soal Matematika Kelas 7 SMP"
+    },
+    "imageSrc": "kwis-mat-smp-7.png",
+    "date": "2026-04-05T18:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SMP"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Middle School Math"
+      ]
+    },
+    "detail": "/kwis-mat-smp-7",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-smp-7",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsmp7",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 7 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 7 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 7, kamu bisa menjawab berbagai soal matematika Kelas 7 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 7 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 7 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 7\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 7, seperti:\n\n1\uFE0F⃣ Bilangan Bulat\n2\uFE0F⃣ Bilangan Rasional\n3\uFE0F⃣ Rasio\n4\uFE0F⃣ Bentuk Aljabar\n5\uFE0F⃣ Kesebangunan\n6\uFE0F⃣ Data dan Diagram\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 7.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 7 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-smp-7-1.png",
+      "kwis-mat-smp-7-2.png",
+      "kwis-mat-smp-7-3.png",
+      "kwis-mat-smp-7-4.png",
+      "kwis-mat-smp-7-5.png",
+      "kwis-mat-smp-7-6.png",
+      "kwis-mat-smp-7-7.png",
+      "kwis-mat-smp-7-8.png"
+    ],
+    "characters": [
+      {
+        "id": "wodi",
+        "role": {
+          "en": "7th Grade Student",
+          "id": "Siswa Kelas 7"
+        }
+      },
+      {
+        "id": "woka",
+        "role": {
+          "en": "Wodi's Friend",
+          "id": "Teman Wodi"
+        }
+      },
+      {
+        "id": "kara",
+        "role": {
+          "en": "Wodi's Friend",
+          "id": "Teman Wodi"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-prov-id",
+    "title": {
+      "en": "Indonesian Provinces Quiz",
+      "id": "Kuis Provinsi di Indonesia"
+    },
+    "imageSrc": "kwis-prov-id.png",
+    "date": "2026-03-29T18:00+07:00",
+    "description": {
+      "id": "Sebuah game pengetahuan interaktif untuk mengenal provinsi, ibu kota, lambang, dan peta Indonesia.",
+      "en": "An interactive knowledge game to learn about Indonesia’s provinces, capitals, symbols, and maps."
+    },
+    "categories": {
+      "id": [
+        "Kuis Pengetahuan",
+        "KWIS Umum"
+      ],
+      "en": [
+        "Knowledge Quiz",
+        "KWIS General"
+      ]
+    },
+    "detail": "/kwis-prov-id",
+    "privacyPolicyLink": "/privacy-policy/kwis-prov-id",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.provindo",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDDFA\uFE0F KWIS: Kuis Provinsi Indonesia – Ibu Kota & Peta Indonesia\n\nAyo main kuis provinsi Indonesia yang seru!\n\nDi KWIS: Kuis Provinsi Indonesia, kamu bisa menjawab berbagai soal tentang provinsi Indonesia, mulai dari nama provinsi, ibu kota provinsi, lambang daerah, hingga lokasi provinsi di peta Indonesia.\n\nGame ini membantu kamu mengenal 38 provinsi Indonesia melalui kuis yang cepat, seru, dan interaktif. Semakin banyak soal provinsi Indonesia yang kamu selesaikan, semakin luas pengetahuanmu tentang wilayah Nusantara.\n\nCocok untuk kamu yang ingin belajar provinsi Indonesia, ibu kota provinsi, dan peta Indonesia melalui kuis yang menyenangkan.\n\n\uD83C\uDFAF Materi Kuis Provinsi Indonesia\n\nDi dalam game ini kamu akan menemukan berbagai soal geografi tentang provinsi Indonesia, seperti:\n\n1\uFE0F⃣ Nama Provinsi di Indonesia\n2\uFE0F⃣ Ibu Kota Provinsi di Indonesia\n3\uFE0F⃣ Lambang Provinsi di Indonesia\n4\uFE0F⃣ Peta Provinsi di Indonesia\n\nSemua materi disajikan dalam bentuk kuis interaktif sehingga belajar geografi terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDED Kuis Provinsi Indonesia Interaktif\nLatihan berbagai soal provinsi Indonesia termasuk nama provinsi, ibu kota provinsi, dan peta Indonesia.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar geografi Indonesia terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman bermain yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kuis provinsi Indonesia kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal provinsi Indonesia dan uji pengetahuanmu tentang peta Indonesia!"
+    },
+    "screenshots": [
+      "kwis-prov-id-1.png",
+      "kwis-prov-id-2.png",
+      "kwis-prov-id-3.png",
+      "kwis-prov-id-4.png",
+      "kwis-prov-id-5.png",
+      "kwis-prov-id-6.png",
+      "kwis-prov-id-7.png",
+      "kwis-prov-id-8.png"
+    ],
+    "characters": [
+      {
+        "id": "kome",
+        "role": {
+          "en": "Indonesian Citizen",
+          "id": "Warga Negara Indonesia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-6",
+    "title": {
+      "en": "Grade 6 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 6 SD"
+    },
+    "imageSrc": "kwis-mat-sd-6.png",
+    "date": "2026-03-17T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-6",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-6",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd6",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 6 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 6 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 6, kamu bisa menjawab berbagai soal matematika Kelas 6 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 6 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 6 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 6\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 6, seperti:\n\n1\uFE0F⃣ Penjumlahan Bilangan Pecahan\n2\uFE0F⃣ Pengurangan Bilangan Pecahan\n3\uFE0F⃣ Perkalian Bilangan Pecahan\n4\uFE0F⃣ Pembagian Bilangan Pecahan\n5\uFE0F⃣ Bilangan Desimal\n6\uFE0F⃣ Rasio\n7\uFE0F⃣ Bangun Ruang\n8\uFE0F⃣ Peluang\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 6.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 6 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-6-1.png",
+      "kwis-mat-sd-6-2.png",
+      "kwis-mat-sd-6-3.png",
+      "kwis-mat-sd-6-4.png",
+      "kwis-mat-sd-6-5.png",
+      "kwis-mat-sd-6-6.png",
+      "kwis-mat-sd-6-7.png",
+      "kwis-mat-sd-6-8.png",
+      "kwis-mat-sd-6-9.png",
+      "kwis-mat-sd-6-10.png"
+    ],
+    "characters": [
+      {
+        "id": "rapi",
+        "role": {
+          "en": "6th Grade Student",
+          "id": "Siswa Kelas 6"
+        }
+      },
+      {
+        "id": "roku",
+        "role": {
+          "en": "Rapi's Friend",
+          "id": "Teman Rapi"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Rapi's Friend",
+          "id": "Teman Rapi"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-5",
+    "title": {
+      "en": "Grade 5 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 5 SD"
+    },
+    "imageSrc": "kwis-mat-sd-5.png",
+    "date": "2026-03-12T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-5",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-5",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd5",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 5 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 5 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 5, kamu bisa menjawab berbagai soal matematika Kelas 5 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 5 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 5 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 5\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 5, seperti:\n\n1\uFE0F⃣ Membilang sampai dengan 100000\n2\uFE0F⃣ KPK dan FPB\n3\uFE0F⃣ Bilangan Pecahan\n4\uFE0F⃣ Keliling dan Luas Daerah Bangun Datar\n5\uFE0F⃣ Sudut\n6\uFE0F⃣ Membandingkan Ciri-ciri Bangun Datar\n7\uFE0F⃣ Data\n8\uFE0F⃣ Membilang sampai dengan 1000000\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 5.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 5 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-5-1.png",
+      "kwis-mat-sd-5-2.png",
+      "kwis-mat-sd-5-3.png",
+      "kwis-mat-sd-5-4.png",
+      "kwis-mat-sd-5-5.png",
+      "kwis-mat-sd-5-6.png",
+      "kwis-mat-sd-5-7.png",
+      "kwis-mat-sd-5-8.png",
+      "kwis-mat-sd-5-9.png",
+      "kwis-mat-sd-5-10.png"
+    ],
+    "characters": [
+      {
+        "id": "goci",
+        "role": {
+          "en": "5th Grade Student",
+          "id": "Siswa Kelas 5"
+        }
+      },
+      {
+        "id": "ginu",
+        "role": {
+          "en": "Goci's Friend",
+          "id": "Teman Goci"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Goci's Friend",
+          "id": "Teman Goci"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-4",
+    "title": {
+      "en": "Grade 4 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 4 SD"
+    },
+    "imageSrc": "kwis-mat-sd-4.png",
+    "date": "2026-03-07T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-4",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-4",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd4",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 4 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 4 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 4, kamu bisa menjawab berbagai soal matematika Kelas 4 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 4 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 4 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 4\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 4, seperti:\n\n1\uFE0F⃣ Membilang sampai dengan 10000\n2\uFE0F⃣ Penjumlahan dan Pengurangan sampai dengan 1000\n3\uFE0F⃣ Perkalian dan Pembagian Puluhan dengan Satuan\n4\uFE0F⃣ Pecahan\n5\uFE0F⃣ Pola Gambar dan Pola Bilangan\n6\uFE0F⃣ Pengukuran Luas dan Volume\n7\uFE0F⃣ Bangun Datar\n8\uFE0F⃣ Piktogram dan Diagram Batang\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 4.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 4 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-4-1.png",
+      "kwis-mat-sd-4-2.png",
+      "kwis-mat-sd-4-3.png",
+      "kwis-mat-sd-4-4.png",
+      "kwis-mat-sd-4-5.png",
+      "kwis-mat-sd-4-6.png",
+      "kwis-mat-sd-4-7.png",
+      "kwis-mat-sd-4-8.png",
+      "kwis-mat-sd-4-9.png",
+      "kwis-mat-sd-4-10.png"
+    ],
+    "characters": [
+      {
+        "id": "boli",
+        "role": {
+          "en": "4th Grade Student",
+          "id": "Siswa Kelas 4"
+        }
+      },
+      {
+        "id": "bipu",
+        "role": {
+          "en": "Boli's Friend",
+          "id": "Teman Boli"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Boli's Friend",
+          "id": "Teman Boli"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-3",
+    "title": {
+      "en": "Grade 3 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 3 SD"
+    },
+    "imageSrc": "kwis-mat-sd-3.png",
+    "date": "2026-03-02T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-3",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-3",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd3",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 3 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 3 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 3, kamu bisa menjawab berbagai soal matematika Kelas 3 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 3 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 3 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 3\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 3, seperti:\n\n1\uFE0F⃣ Membilang sampai dengan 1000\n2\uFE0F⃣ Penjumlahan dan Pengurangan sampai dengan 100\n3\uFE0F⃣ Perkalian sampai dengan 100\n4\uFE0F⃣ Pembagian sampai dengan 100\n5\uFE0F⃣ Kalimat Matematika\n6\uFE0F⃣ Pengukuran Panjang dan Berat\n7\uFE0F⃣ Unsur-unsur Bangun Datar\n8\uFE0F⃣ Penyajian Data dalam Tabel\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 3.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 3 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-3-1.png",
+      "kwis-mat-sd-3-2.png",
+      "kwis-mat-sd-3-3.png",
+      "kwis-mat-sd-3-4.png",
+      "kwis-mat-sd-3-5.png",
+      "kwis-mat-sd-3-6.png",
+      "kwis-mat-sd-3-7.png",
+      "kwis-mat-sd-3-8.png",
+      "kwis-mat-sd-3-9.png",
+      "kwis-mat-sd-3-10.png"
+    ],
+    "characters": [
+      {
+        "id": "cuki",
+        "role": {
+          "en": "3rd Grade Student",
+          "id": "Siswa Kelas 3"
+        }
+      },
+      {
+        "id": "cipu",
+        "role": {
+          "en": "Cuki's Friend",
+          "id": "Teman Cuki"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Cuki's Friend",
+          "id": "Teman Cuki"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-2",
+    "title": {
+      "en": "Grade 2 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 2 SD"
+    },
+    "imageSrc": "kwis-mat-sd-2.png",
+    "date": "2026-02-25T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-2",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-2",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd2",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 2 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 2 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 2, kamu bisa menjawab berbagai soal matematika Kelas 2 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 2 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 2 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 2\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 2, seperti:\n\n1\uFE0F⃣ Membilang sampai dengan 50\n2\uFE0F⃣ Penjumlahan dan Pengurangan sampai dengan 50\n3\uFE0F⃣ Bentuk di Sekitar Kita\n4\uFE0F⃣ Posisi Benda dan Pola di Sekitar Kita\n5\uFE0F⃣ Mengenal Pecahan\n6\uFE0F⃣ Mengukur Berat dan Waktu\n7\uFE0F⃣ Membilang sampai dengan 100\n8\uFE0F⃣ Berbagai Diagram\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 2.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 2 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-2-1.png",
+      "kwis-mat-sd-2-2.png",
+      "kwis-mat-sd-2-3.png",
+      "kwis-mat-sd-2-4.png",
+      "kwis-mat-sd-2-5.png",
+      "kwis-mat-sd-2-6.png",
+      "kwis-mat-sd-2-7.png",
+      "kwis-mat-sd-2-8.png",
+      "kwis-mat-sd-2-9.png",
+      "kwis-mat-sd-2-10.png"
+    ],
+    "characters": [
+      {
+        "id": "mogi",
+        "role": {
+          "en": "2nd Grade Student",
+          "id": "Siswa Kelas 2"
+        }
+      },
+      {
+        "id": "mipu",
+        "role": {
+          "en": "Mogi's Friend",
+          "id": "Teman Mogi"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Mogi's Friend",
+          "id": "Teman Mogi"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwis-mat-sd-1",
+    "title": {
+      "en": "Grade 1 Elementary School Math Problems",
+      "id": "Soal Matematika Kelas 1 SD"
+    },
+    "imageSrc": "kwis-mat-sd-1.png",
+    "date": "2026-02-20T06:00+07:00",
+    "description": {
+      "id": "Sebuah game edukasi interaktif yang membantu siswa belajar matematika dasar melalui kuis yang seru dan menyenangkan.",
+      "en": "A fun and interactive educational game that helps students learn basic mathematics through engaging quizzes."
+    },
+    "categories": {
+      "id": [
+        "Kuis Edukasi",
+        "KWIS Matematika SD"
+      ],
+      "en": [
+        "Educational Quiz",
+        "KWIS Elementary School Math"
+      ]
+    },
+    "detail": "/kwis-mat-sd-1",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-1",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.kwis.matsd1",
+    "longDescription": {
+      "en": "No game description in English",
+      "id": "\uD83D\uDCD3 KWIS: Kuis Matematika Kelas 1 – Soal Matematika Interaktif\n\nAyo bermain sambil mengerjakan soal matematika Kelas 1 yang seru!\n\nDi KWIS: Kuis Matematika Kelas 1, kamu bisa menjawab berbagai soal matematika Kelas 1 yang dirancang untuk membantu memahami konsep matematika dengan cara yang menyenangkan.\n\nGame belajar ini berisi banyak soal matematika interaktif untuk melatih kemampuan berhitung, logika, dan pemecahan masalah. Semakin banyak soal matematika Kelas 1 yang kamu selesaikan, semakin terlatih kemampuan matematikamu.\n\nCocok untuk kamu yang ingin latihan matematika Kelas 1 melalui kuis yang seru dan menantang.\n\n\uD83C\uDFAF Materi Matematika Kelas 1\n\nDi dalam game ini kamu akan menemukan berbagai soal matematika Kelas 1, seperti:\n\n1\uFE0F⃣ Membilang sampai dengan 10\n2\uFE0F⃣ Penjumlahan sampai dengan 10\n3\uFE0F⃣ Pengurangan sampai dengan 10\n4\uFE0F⃣ Mengenal Bentuk\n5\uFE0F⃣ Membilang sampai dengan 20\n6\uFE0F⃣ Penjumlahan dan Pengurangan sampai dengan 20\n7\uFE0F⃣ Mengukur Panjang Benda\n8\uFE0F⃣ Mengenal Diagram\n\nSemua materi disajikan dalam bentuk kuis matematika interaktif sehingga belajar terasa seperti bermain.\n\n\uD83C\uDFAE Fitur Game\n\n\uD83E\uDDEE Soal Matematika Interaktif\nLatihan berbagai konsep matematika sesuai materi Kelas 1.\n\n\uD83C\uDF08 Belajar Sambil Bermain\nGame edukasi yang membuat belajar matematika terasa menyenangkan.\n\n\uD83C\uDFC6 Level Bertahap\nTantangan meningkat seiring kemajuan pemain.\n\n\uD83D\uDD0A Suara & Animasi Menarik\nMemberi pengalaman belajar yang lebih seru.\n\n\uD83D\uDCF4 Bisa Dimainkan Offline\nMainkan kapan saja tanpa internet.\n\n\uD83D\uDCB0 Opsi Tanpa Iklan\nNikmati permainan tanpa iklan dengan pembelian satu kali.\n\n\uD83C\uDFAF Ayo selesaikan semua soal matematika Kelas 1 dan tingkatkan kemampuanmu!"
+    },
+    "screenshots": [
+      "kwis-mat-sd-1-1.png",
+      "kwis-mat-sd-1-2.png",
+      "kwis-mat-sd-1-3.png",
+      "kwis-mat-sd-1-4.png",
+      "kwis-mat-sd-1-5.png",
+      "kwis-mat-sd-1-6.png",
+      "kwis-mat-sd-1-7.png",
+      "kwis-mat-sd-1-8.png",
+      "kwis-mat-sd-1-9.png",
+      "kwis-mat-sd-1-10.png"
+    ],
+    "characters": [
+      {
+        "id": "yiki",
+        "role": {
+          "en": "1st Grade Student",
+          "id": "Siswa Kelas 1"
+        }
+      },
+      {
+        "id": "yebu",
+        "role": {
+          "en": "Yiki's Friend",
+          "id": "Teman Yiki"
+        }
+      },
+      {
+        "id": "lato",
+        "role": {
+          "en": "Yiki's Friend",
+          "id": "Teman Yiki"
+        }
+      }
+    ]
+  },
+  {
+    "id": "gridverse-wild",
+    "title": {
+      "en": "Hidden Logic — Gridverse: Wild",
+      "id": "Logika Tersembunyi — Gridverse: Wild"
+    },
+    "imageSrc": "gridverse-wild.png",
+    "date": "2025-12-11T07:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang melatih strategi dan keberanianmu saat membuka ruang-ruang tersembunyi.",
+      "en": "A grid-based puzzle that trains your strategy and courage as you uncover hidden spaces."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Gridverse"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Gridverse"
+      ]
+    },
+    "detail": "/gridverse-wild",
+    "privacyPolicyLink": "/privacy-policy/gridverse-wild",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.gridverse.wild",
+    "playLink": "https://mustakuusi.itch.io/gridverse-wild-hidden-logic",
+    "longDescription": {
+      "en": "\uD83D\uDCA3 Gridverse: Wild — Logic Meets Danger!\n\nDive into Gridverse: Wild, a minimalist twist on the classic Minesweeper — designed for sharp minds and careful clickers.\n\nEvery tap counts. Every move could reveal a treasure or trigger a trap. Can you clear the grid without hitting the hidden hazards?\n\n\uD83C\uDFAE Game Features:\n\uD83E\uDDE0 Minesweeper Logic — Reveal cells, avoid hidden traps, and use numbers to deduce safe spots.\n⏱\uFE0F Timed Challenge — Test your speed and precision under pressure.\n\uD83D\uDC80 No Hints, No Safety Net — One wrong click could end your run. Win with pure strategy.\n\uD83C\uDFC6 Global Leaderboard — Compete with players worldwide via Google Play Games.\n\uD83C\uDF0C Minimalist Visuals — Focus on the grid, not the clutter.\n\uD83D\uDCF4 Offline Mode — Play anywhere, anytime, without an internet connection.\n\nWhether you’re a Minesweeper veteran or a new challenger seeking tactical thrill, Gridverse: Wild delivers a clean, intense puzzle experience — one grid at a time.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "gridverse-wild-1.png",
+      "gridverse-wild-2.png",
+      "gridverse-wild-3.png",
+      "gridverse-wild-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kapa",
+        "role": {
+          "en": "Wild Animal #0",
+          "id": "Hewan Liar No.0"
+        }
+      },
+      {
+        "id": "yiki",
+        "role": {
+          "en": "Wild Animal #1",
+          "id": "Hewan Liar No.1"
+        }
+      },
+      {
+        "id": "mogi",
+        "role": {
+          "en": "Wild Animal #2",
+          "id": "Hewan Liar No.2"
+        }
+      },
+      {
+        "id": "cuki",
+        "role": {
+          "en": "Wild Animal #3",
+          "id": "Hewan Liar No.3"
+        }
+      },
+      {
+        "id": "boli",
+        "role": {
+          "en": "Wild Animal #4",
+          "id": "Hewan Liar No.4"
+        }
+      },
+      {
+        "id": "goci",
+        "role": {
+          "en": "Wild Animal #5",
+          "id": "Hewan Liar No.5"
+        }
+      },
+      {
+        "id": "rapi",
+        "role": {
+          "en": "Wild Animal #6",
+          "id": "Hewan Liar No.6"
+        }
+      }
+    ]
+  },
+  {
+    "id": "gridverse-nine",
+    "title": {
+      "en": "Icon Sudoku — Gridverse: Nine",
+      "id": "Sudoku Ikon — Gridverse: Nine"
+    },
+    "imageSrc": "gridverse-nine.png",
+    "date": "2025-11-29T08:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang mengasah logika dan kemampuanmu mengenali pola lewat susunan simbol-simbol.",
+      "en": "A grid-based puzzle that sharpens your logic and ability to recognize patterns through arrangements of symbols."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Gridverse"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Gridverse"
+      ]
+    },
+    "detail": "/gridverse-nine",
+    "privacyPolicyLink": "/privacy-policy/gridverse-nine",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.gridverse.nine",
+    "playLink": "https://mustakuusi.itch.io/gridverse-nine-icon-sudoku",
+    "longDescription": {
+      "en": "9\uFE0F⃣ Gridverse: Nine — Pure Logic, Timed Challenge!\n\nStep into Gridverse: Nine, a clean and minimalist take on the classic Sudoku — designed for true puzzle purists.\n\nNo hints, no undo, no distractions — just your logic, focus, and the ticking clock.\n\n\uD83C\uDFAE Game Features:\n\uD83E\uDDE0 Classic Sudoku Rules — Fill the grid so every row, column, and box has 9 different symbols.\n⏱\uFE0F Timer Challenge — Race against time and test your speed and accuracy.\n\uD83D\uDC80 No Hints, No Mercy — Every mistake counts. Win with pure reasoning.\n\uD83C\uDFC6 Global Leaderboard — Compete with friends worldwide via Google Play Games.\n\uD83C\uDF0C Minimalist Visuals — Clean design for maximum concentration.\n\uD83D\uDCF4 Offline Mode — Play anywhere, anytime, no internet required.\n\nWhether you’re a Sudoku expert or a new challenger seeking focus and flow, Gridverse: Nine offers a pure, uninterrupted puzzle experience — one grid at a time.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "gridverse-nine-1.png",
+      "gridverse-nine-2.png",
+      "gridverse-nine-3.png",
+      "gridverse-nine-4.png"
+    ],
+    "characters": [
+      {
+        "id": "kara",
+        "role": {
+          "en": "Rabbit",
+          "id": "Kelinci"
+        }
+      },
+      {
+        "id": "yebu",
+        "role": {
+          "en": "Bear",
+          "id": "Beruang"
+        }
+      },
+      {
+        "id": "mipu",
+        "role": {
+          "en": "Pig",
+          "id": "Babi"
+        }
+      },
+      {
+        "id": "cipu",
+        "role": {
+          "en": "Penguin",
+          "id": "Penguin"
+        }
+      },
+      {
+        "id": "bipu",
+        "role": {
+          "en": "Hippo",
+          "id": "Kuda nil"
+        }
+      },
+      {
+        "id": "ginu",
+        "role": {
+          "en": "Rhino",
+          "id": "Badak"
+        }
+      },
+      {
+        "id": "roku",
+        "role": {
+          "en": "Monkey",
+          "id": "Monyet"
+        }
+      },
+      {
+        "id": "kezo",
+        "role": {
+          "en": "Zebra",
+          "id": "Zebra"
+        }
+      },
+      {
+        "id": "keli",
+        "role": {
+          "en": "Whale",
+          "id": "Paus"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-6",
+    "title": {
+      "en": "Color Nonogram — Buttons 6",
+      "id": "Nonogram Warna — Buttons 6"
+    },
+    "imageSrc": "buttons-6.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-6",
+    "privacyPolicyLink": "/privacy-policy/buttons-6",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons6",
+    "playLink": "https://mustakuusi.itch.io/buttons-6-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 6: Parrot & Monkey — Color Nonogram Logic Puzzle\n\nButtons 6: Parrot & Monkey is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Parrot and Monkey — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Duck and Penguin sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Parrot and Monkey buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 6: Parrot & Monkey offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-6-1.png",
+      "buttons-6-2.png",
+      "buttons-6-3.png",
+      "buttons-6-4.png"
+    ],
+    "characters": [
+      {
+        "id": "rapi",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "roku",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-5",
+    "title": {
+      "en": "Color Nonogram — Buttons 5",
+      "id": "Nonogram Warna — Buttons 5"
+    },
+    "imageSrc": "buttons-5.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-5",
+    "privacyPolicyLink": "/privacy-policy/buttons-5",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons5",
+    "playLink": "https://mustakuusi.itch.io/buttons-5-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 5: Crocodile & Rhino — Color Nonogram Logic Puzzle\n\nButtons 5: Crocodile & Rhino is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Crocodile and Rhino — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Duck and Penguin sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Crocodile and Rhino buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 5: Crocodile & Rhino offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-5-1.png",
+      "buttons-5-2.png",
+      "buttons-5-3.png",
+      "buttons-5-4.png"
+    ],
+    "characters": [
+      {
+        "id": "goci",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "ginu",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-4",
+    "title": {
+      "en": "Color Nonogram — Buttons 4",
+      "id": "Nonogram Warna — Buttons 4"
+    },
+    "imageSrc": "buttons-4.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-4",
+    "privacyPolicyLink": "/privacy-policy/buttons-4",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons4",
+    "playLink": "https://mustakuusi.itch.io/buttons-4-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 4: Owl & Hippo — Color Nonogram Logic Puzzle\n\nButtons 4: Owl & Hippo is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Owl and Hippo — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Duck and Penguin sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Owl and Hippo buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 4: Owl & Hippo offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-4-1.png",
+      "buttons-4-2.png",
+      "buttons-4-3.png",
+      "buttons-4-4.png"
+    ],
+    "characters": [
+      {
+        "id": "boli",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "bipu",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-3",
+    "title": {
+      "en": "Color Nonogram — Buttons 3",
+      "id": "Nonogram Warna — Buttons 3"
+    },
+    "imageSrc": "buttons-3.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-3",
+    "privacyPolicyLink": "/privacy-policy/buttons-3",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons3",
+    "playLink": "https://mustakuusi.itch.io/buttons-3-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 3: Duck & Penguin — Color Nonogram Logic Puzzle\n\nButtons 3: Duck & Penguin is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Duck and Penguin — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Duck and Penguin sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Duck and Penguin buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 3: Duck & Penguin offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-3-1.png",
+      "buttons-3-2.png",
+      "buttons-3-3.png",
+      "buttons-3-4.png"
+    ],
+    "characters": [
+      {
+        "id": "cuki",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "cipu",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-2",
+    "title": {
+      "en": "Color Nonogram — Buttons 2",
+      "id": "Nonogram Warna — Buttons 2"
+    },
+    "imageSrc": "buttons-2.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-2",
+    "privacyPolicyLink": "/privacy-policy/buttons-2",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons2",
+    "playLink": "https://mustakuusi.itch.io/buttons-2-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 2: Gorilla & Pig — Color Nonogram Logic Puzzle\n\nButtons 2: Gorilla & Pig is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Gorilla and Pig — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Gorilla and Pig sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Gorilla and Pig buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 2: Gorilla & Pig offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-2-1.png",
+      "buttons-2-2.png",
+      "buttons-2-3.png",
+      "buttons-2-4.png"
+    ],
+    "characters": [
+      {
+        "id": "mogi",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "mipu",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-1",
+    "title": {
+      "en": "Color Nonogram — Buttons 1",
+      "id": "Nonogram Warna — Buttons 1"
+    },
+    "imageSrc": "buttons-1.png",
+    "date": "2025-08-08T11:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-1",
+    "privacyPolicyLink": "/privacy-policy/buttons-1",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.buttons1",
+    "playLink": "https://mustakuusi.itch.io/buttons-1-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 1: Chick & Bear — Color Nonogram Logic Puzzle\n\nButtons 1: Chick & Bear is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Chick and Bear — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Chick and Bear sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Chick and Bear buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 1: Chick & Bear offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-1-1.png",
+      "buttons-1-2.png",
+      "buttons-1-3.png",
+      "buttons-1-4.png"
+    ],
+    "characters": [
+      {
+        "id": "yiki",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "yebu",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "buttons-0",
+    "title": {
+      "en": "Color Nonogram — Buttons 0",
+      "id": "Nonogram Warna — Buttons 0"
+    },
+    "imageSrc": "buttons-0.png",
+    "date": "2025-08-01T21:00+07:00",
+    "description": {
+      "id": "Sebuah puzzle kotak-kotak yang menguji ketelitian dan logikamu saat menyusun gambar langkah demi langkah.",
+      "en": "A grid-based puzzle that tests your attention to detail and logic as you assemble images step by step."
+    },
+    "categories": {
+      "id": [
+        "Puzzle Logika",
+        "Buttons"
+      ],
+      "en": [
+        "Logic Puzzle",
+        "Buttons"
+      ]
+    },
+    "detail": "/buttons-0",
+    "privacyPolicyLink": "/privacy-policy/buttons-0",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.finalbuttons",
+    "playLink": "https://mustakuusi.itch.io/buttons-0-color-nonogram",
+    "longDescription": {
+      "en": "\uD83E\uDDE9 Buttons 0: Dog & Cow — Color Nonogram Logic Puzzle\n\nButtons 0: Dog & Cow is a color nonogram word puzzle where every level hides a secret color grid. Use simple logic and just two buttons — Dog \uD83D\uDC36 and Cow \uD83D\uDC2E — to solve each colorful mystery.\n\nEach stage gives you numeric color clues, just like a nonogram, but with a minimalist twist. Tap the right Dog and Cow sequence to fill the grid and reveal the hidden color pattern!\n\n\uD83C\uDFAE Game Features:\n\uD83C\uDF08 Unique Color Nonogram Gameplay — Solve puzzles using numeric color clues and logic.\n\uD83D\uDC3E Two-Button Controls — Use Dog and Cow buttons to build your color combo.\n\uD83D\uDD22 Smart Color Logic — Each number shows how many of each color appear in the grid.\n\uD83C\uDFAF Instant Feedback — Watch the grid update in real time as you input each sequence.\n\uD83E\uDDE0 Brain-Training Fun — Simple to play, challenging to master logic puzzles.\n\uD83C\uDFA8 Minimalist Art Style — Clean visuals and vibrant color reveals.\n\uD83C\uDFC6 Achievement System — Unlock achievements as you solve puzzles and improve your logic skills.\n\uD83D\uDCF4 Offline Play — Enjoy anywhere, anytime without internet access.\n\nWhether you love nonograms, color puzzles, or brain training games, Buttons 0: Dog & Cow offers a fresh twist with just two buttons and endless colorful combinations.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "buttons-0-1.png",
+      "buttons-0-2.png",
+      "buttons-0-3.png",
+      "buttons-0-4.png"
+    ],
+    "characters": [
+      {
+        "id": "wodi",
+        "role": {
+          "en": "Left Button",
+          "id": "Tombol Kiri"
+        }
+      },
+      {
+        "id": "woka",
+        "role": {
+          "en": "Right Button",
+          "id": "Tombol Kanan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "flappy-custom",
+    "title": {
+      "en": "Flappy Custom: Arcade Fly",
+      "id": "Flappy Custom: Arkade Terbang"
+    },
+    "imageSrc": "flappy-custom.png",
+    "date": "2025-07-26T15:00+07:00",
+    "description": {
+      "id": "Sebuah game arkade yang menguji ketepatan dan waktu reaksi saat kamu melewati rintangan tanpa akhir.",
+      "en": "An arcade game that tests your precision and reaction time as you navigate through endless obstacles."
+    },
+    "categories": {
+      "id": [
+        "Arkade"
+      ],
+      "en": [
+        "Arcade"
+      ]
+    },
+    "detail": "/flappy-custom",
+    "privacyPolicyLink": "/privacy-policy/flappy-custom",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mustakuusi.flappycustom",
+    "playLink": "https://mustakuusi.itch.io/flappy-custom-arcade-fly",
+    "longDescription": {
+      "en": "\uD83D\uDD79\uFE0F Flappy Custom — Tap, Fly & Customize!\n\nFlappy Custom is a fast-paced arcade flying game inspired by the legendary flappy challenge — but with a creative twist! Tap to flap, dodge obstacles, and soar through colorful skies with a character that’s uniquely yours.\n\n\uD83C\uDFAE Game Features:\n\uD83D\uDE80 Classic Tap-to-Flap Gameplay — Easy to learn, hard to master.\n\uD83C\uDFA8 Customizable Characters — Unlock fun skins and fly in style.\n\uD83C\uDF08 Smooth Visuals — Clean graphics and satisfying animations.\n\uD83C\uDFC6 Global Leaderboard & Achievements — Compete with friends worldwide via Google Play Games.\n\uD83D\uDCF4 Offline Mode — Play anywhere, anytime, no internet required.\n\nWhether you’re a casual player or a flappy veteran, Flappy Custom delivers that classic tap-to-fly thrill you love — now with custom skins and global competition.",
+      "id": "Tidak ada deskripsi game dalam Bahasa Indonesia"
+    },
+    "screenshots": [
+      "flappy-custom-1.png",
+      "flappy-custom-2.png",
+      "flappy-custom-3.png",
+      "flappy-custom-4.png"
+    ],
+    "characters": [
+      {
+        "id": "lato",
+        "role": {
+          "en": "Corporal Elephant",
+          "id": "Kopral Gajah"
+        }
+      },
+      {
+        "id": "yiki",
+        "role": {
+          "en": "Sergeant Chick",
+          "id": "Sersan Ayam"
+        }
+      },
+      {
+        "id": "yebu",
+        "role": {
+          "en": "Lieutenant Bear",
+          "id": "Letnan Beruang"
+        }
+      },
+      {
+        "id": "mogi",
+        "role": {
+          "en": "Sergeant Gorilla",
+          "id": "Sersan Gorilla"
+        }
+      },
+      {
+        "id": "mipu",
+        "role": {
+          "en": "Lieutenant Pig",
+          "id": "Letnan Babi"
+        }
+      },
+      {
+        "id": "cuki",
+        "role": {
+          "en": "Sergeant Duck",
+          "id": "Sersan Bebek"
+        }
+      },
+      {
+        "id": "cipu",
+        "role": {
+          "en": "Lieutenant Penguin",
+          "id": "Letnan Penguin"
+        }
+      },
+      {
+        "id": "boli",
+        "role": {
+          "en": "Sergeant Owl",
+          "id": "Sersan Burung hantu"
+        }
+      },
+      {
+        "id": "bipu",
+        "role": {
+          "en": "Lieutenant Hippo",
+          "id": "Letnan Kuda nil"
+        }
+      },
+      {
+        "id": "goci",
+        "role": {
+          "en": "Sergeant Crocodile",
+          "id": "Sersan Buaya"
+        }
+      },
+      {
+        "id": "ginu",
+        "role": {
+          "en": "Lieutenant Rhino",
+          "id": "Letnan Badak"
+        }
+      },
+      {
+        "id": "rapi",
+        "role": {
+          "en": "Sergeant Parrot",
+          "id": "Sersan Kakatua"
+        }
+      },
+      {
+        "id": "roku",
+        "role": {
+          "en": "Lieutenant Monkey",
+          "id": "Letnan Monyet"
+        }
+      },
+      {
+        "id": "wodi",
+        "role": "Captain Dog",
+        "role": {
+          "en": "Captain Dog",
+          "id": "Kapten Anjing"
+        }
+      },
+      {
+        "id": "woka",
+        "role": {
+          "en": "Major Cow",
+          "id": "Mayor Sapi"
+        }
+      },
+      {
+        "id": "kara",
+        "role": {
+          "en": "Colonel Rabbit",
+          "id": "Kolonel Kelinci"
+        }
+      },
+      {
+        "id": "kezo",
+        "role": "Brig.Gen Zebra",
+        "role": {
+          "en": "Brig.Gen Zebra",
+          "id": "Brigjen Zebra"
+        }
+      },
+      {
+        "id": "kapa",
+        "role": {
+          "en": "Maj.Gen Panda",
+          "id": "Mayjen Panda"
+        }
+      },
+      {
+        "id": "keli",
+        "role": {
+          "en": "Lt.Gen Whale",
+          "id": "Letjen Paus"
+        }
+      },
+      {
+        "id": "kome",
+        "role": "General Moose",
+        "role": {
+          "en": "General Moose",
+          "id": "Jenderal Rusa"
+        }
+      }
+    ]
+  }
+]
