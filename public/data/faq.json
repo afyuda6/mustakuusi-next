@@ -1,0 +1,72 @@
+[
+  {
+    "question": {
+      "id": "Apakah semua game mustakuusi gratis?",
+      "en": "Are all mustakuusi games free?"
+    },
+    "answer": {
+      "id": "Ya! Semua game mustakuusi dapat diunduh dan dimainkan secara gratis di Google Play Store. Beberapa game menawarkan opsi pembelian dalam aplikasi (IAP) untuk menghapus iklan jika kamu menginginkan pengalaman bermain tanpa gangguan.",
+      "en": "Yes! All mustakuusi games are free to download and play on the Google Play Store. Some games offer an optional in-app purchase (IAP) to remove ads if you prefer an uninterrupted experience."
+    }
+  },
+  {
+    "question": {
+      "id": "Di platform apa saja game mustakuusi tersedia?",
+      "en": "What platforms are mustakuusi games available on?"
+    },
+    "answer": {
+      "id": "Saat ini game mustakuusi tersedia di Android melalui Google Play Store. Kami terus berupaya untuk hadir di platform lainnya ke depannya.",
+      "en": "Currently, mustakuusi games are available on Android via the Google Play Store. We are working to expand to other platforms in the future."
+    }
+  },
+  {
+    "question": {
+      "id": "Untuk siapa game mustakuusi dibuat?",
+      "en": "Who are mustakuusi games made for?"
+    },
+    "answer": {
+      "id": "Game kami dirancang untuk semua usia — dari anak-anak hingga dewasa. Kami membuat puzzle logika, kuis edukasi, kuis pengetahuan, dan arkade yang menyenangkan sekaligus mengasah pikiran.",
+      "en": "Our games are designed for all ages — from kids to adults. We create logic puzzles, educational quizzes, knowledge quizzes, and arcades that are both fun and mentally stimulating."
+    }
+  },
+  {
+    "question": {
+      "id": "Apakah game mustakuusi membutuhkan koneksi internet?",
+      "en": "Do mustakuusi games require an internet connection?"
+    },
+    "answer": {
+      "id": "Sebagian besar game kami dapat dimainkan secara offline. Namun beberapa fitur tertentu mungkin memerlukan koneksi internet.",
+      "en": "Most of our games can be played offline. However, certain features may require an internet connection."
+    }
+  },
+  {
+    "question": {
+      "id": "Apakah ada iklan di game mustakuusi?",
+      "en": "Are there ads in mustakuusi games?"
+    },
+    "answer": {
+      "id": "Beberapa game kami menampilkan iklan untuk mendukung pengembangan game gratis. Namun, beberapa game menyediakan opsi pembelian dalam aplikasi untuk menghapus iklan secara permanen sehingga kamu bisa menikmati game tanpa gangguan.",
+      "en": "Some of our games display ads to support free game development. However, select games offer an in-app purchase option to permanently remove ads so you can enjoy an uninterrupted experience."
+    }
+  },
+  {
+    "question": {
+      "id": "Bagaimana cara melaporkan bug atau memberikan masukan?",
+      "en": "How can I report a bug or give feedback?"
+    },
+    "answer": {
+      "id": "Kamu bisa menghubungi kami melalui email di mailto:mustakuusi6@gmail.com atau melalui media sosial kami. Kami sangat menghargai setiap masukan dari kamu!",
+      "en": "You can reach us via email at mailto:mustakuusi6@gmail.com or through our social media channels. We truly appreciate every piece of feedback!"
+    }
+  },
+  {
+    "question": {
+      "id": "Apakah ada game baru yang akan dirilis?",
+      "en": "Are there new games coming soon?"
+    },
+    "answer": {
+      "id": "Tentu! Kamu bisa melihat daftar game yang akan segera hadir di bagian \"Akan Hadir\" pada halaman utama kami.",
+      "en": "Absolutely! You can check out upcoming games in the \"Coming Soon\" section on our main page."
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "edu_quiz",
+    "label": { "id": "Kuis Edukasi", "en": "Educational Quiz" },
+    "children": [
+      { "value": "kwis_sma", "label": { "id": "KWIS Matematika SMA", "en": "KWIS High School Math" } },
+      { "value": "kwis_smp", "label": { "id": "KWIS Matematika SMP", "en": "KWIS Middle School Math" } },
+      { "value": "kwis_sd", "label": { "id": "KWIS Matematika SD", "en": "KWIS Elementary School Math" } }
+    ]
+  },
+  {
+    "value": "knowledge_quiz",
+    "label": { "id": "Kuis Pengetahuan", "en": "Knowledge Quiz" },
+    "children": [
+      { "value": "football_quiz", "label": { "id": "KWIS Tim Sepakbola", "en": "KWIS Football Team" } },
+      { "value": "general_quiz", "label": { "id": "KWIS Umum", "en": "KWIS General" } }
+    ]
+  },
+  {
+    "value": "logic_puzzle",
+    "label": { "id": "Puzzle Logika", "en": "Logic Puzzle" },
+    "children": [
+      { "value": "gridverse", "label": { "id": "Gridverse", "en": "Gridverse" } },
+      { "value": "buttons", "label": { "id": "Buttons", "en": "Buttons" } }
+    ]
+  },
+  {
+    "value": "arcade",
+    "label": { "id": "Arkade", "en": "Arcade" },
+    "children": []
+  }
+]
